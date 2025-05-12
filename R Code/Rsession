@@ -1,0 +1,78 @@
+R session:
+               _                                
+platform       x86_64-w64-mingw32               
+arch           x86_64                           
+os             mingw32                          
+crt            ucrt                             
+system         x86_64, mingw32                  
+status                                          
+major          4                                
+minor          4.2                              
+year           2024                             
+month          10                               
+day            31                               
+svn rev        87279                            
+language       R                                
+version.string R version 4.4.2 (2024-10-31 ucrt)
+nickname       Pile of Leaves                
+
+> sessionInfo()
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 22631)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.utf8 
+[2] LC_CTYPE=English_United Kingdom.utf8   
+[3] LC_MONETARY=English_United Kingdom.utf8
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.utf8    
+
+time zone: Europe/Berlin
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base  
+
+other attached packages:
+ [1] cowplot_1.1.3      flextable_0.9.6    officer_0.6.7      psych_2.4.3        gt_0.10.1         
+ [6] viridis_0.6.5      viridisLite_0.4.2  ggpubr_0.6.0       vcdExtra_0.8-5     gnm_1.1-5         
+[11] vcd_1.4-12         effectsize_1.0.0   geomtextpath_0.1.3 skimr_2.1.5        qqplotr_0.0.6     
+[16] extRemes_2.2       distillery_1.2-2   Lmoments_1.3-1     report_0.6.1       janitor_2.2.0     
+[21] labelled_2.13.0    here_1.0.1         lubridate_1.9.3    forcats_1.0.0      stringr_1.5.1     
+[26] dplyr_1.1.4        purrr_1.0.2        readr_2.1.5        tidyr_1.3.1        tibble_3.2.1      
+[31] ggplot2_3.5.1      tidyverse_2.0.0   
+
+loaded via a namespace (and not attached):
+  [1] rstudioapi_0.16.0       jsonlite_1.8.9          datawizard_1.0.0        magrittr_2.0.3         
+  [5] TH.data_1.1-2           estimability_1.5.1      rmarkdown_2.29          farver_2.1.2           
+  [9] ragg_1.3.2              vctrs_0.6.5             askpass_1.2.0           base64enc_0.1-3        
+ [13] rstatix_0.7.2           htmltools_0.5.8.1       curl_5.2.1              haven_2.5.4            
+ [17] broom_1.0.6             cellranger_1.1.0        pracma_2.4.4            sandwich_3.1-1         
+ [21] emmeans_1.10.5          zoo_1.8-12              uuid_1.2-0              mime_0.12              
+ [25] lifecycle_1.0.4         iterators_1.0.14        pkgconfig_2.0.3         Matrix_1.7-1           
+ [29] R6_2.5.1                fastmap_1.2.0           shiny_1.9.1             snakecase_0.11.1       
+ [33] digest_0.6.37           colorspace_2.1-0        rprojroot_2.0.4         textshaping_0.4.0      
+ [37] labeling_0.4.3          fansi_1.0.6             timechange_0.3.0        abind_1.4-5            
+ [41] compiler_4.4.2          fontquiver_0.2.1        withr_3.0.0             doParallel_1.0.17      
+ [45] backports_1.5.0         carData_3.0-5           relimp_1.0-5            ggsignif_0.6.4         
+ [49] MASS_7.3-61             openssl_2.2.0           gfonts_0.2.0            caTools_1.18.3         
+ [53] tools_4.4.2             lmtest_0.9-40           httpuv_1.6.15           zip_2.3.1              
+ [57] nnet_7.3-19             qqconf_1.3.2            glue_1.7.0              promises_1.3.0         
+ [61] nlme_3.1-166            generics_0.1.3          gtable_0.3.5            tzdb_0.4.0             
+ [65] ca_0.71.1               data.table_1.15.4       hms_1.1.3               xml2_1.3.6             
+ [69] car_3.1-2               utf8_1.2.4              foreach_1.5.2           pillar_1.9.0           
+ [73] later_1.3.2             robustbase_0.99-2       splines_4.4.2           lattice_0.22-6         
+ [77] survival_3.7-0          tidyselect_1.2.1        fontLiberation_0.1.0    knitr_1.49             
+ [81] fontBitstreamVera_0.1.1 gridExtra_2.3           crul_1.4.2              xfun_0.49              
+ [85] DEoptimR_1.1-3          stringi_1.8.4           pacman_0.5.1            httpcode_0.3.0         
+ [89] evaluate_1.0.1          codetools_0.2-20        gdtools_0.3.7           twosamples_2.0.1       
+ [93] cli_3.6.2               xtable_1.8-4            qvcalc_1.0.3            parameters_0.24.1      
+ [97] pbmcapply_1.5.1         systemfonts_1.1.0       repr_1.1.7              munsell_0.5.1          
+[101] Rcpp_1.0.13-1           readxl_1.4.3            coda_0.19-4.1           parallel_4.4.2         
+[105] bayestestR_0.15.2       opdisDownsampling_1.0.1 bitops_1.0-7            mvtnorm_1.2-5          
+[109] scales_1.3.0            insight_1.0.2           crayon_1.5.2            rlang_1.1.3            
+[113] multcomp_1.4-26         mnormt_2.1.1                    
